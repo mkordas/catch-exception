@@ -33,7 +33,7 @@
       resources, i.e. build is platform dependent! See http://maven.apache.org/general.html#encoding-warning -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    <powermock.version>1.6.1</powermock.version>
+    <powermock.version>1.6.2</powermock.version>
 
     <spring.version>4.1.4.RELEASE</spring.version>
 
