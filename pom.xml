@@ -35,7 +35,7 @@
 
     <powermock.version>1.6.1</powermock.version>
 
-    <spring.version>4.1.4.RELEASE</spring.version>
+    <spring.version>4.1.6.RELEASE</spring.version>
 
     <!-- used by maven-license-plugin -->
     <project.inceptionYear>2011</project.inceptionYear>
